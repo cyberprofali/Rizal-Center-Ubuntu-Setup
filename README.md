@@ -27,7 +27,7 @@ sudo apt install git
 Clone this repository:
 
 ```bash
-git clone https://github.com/xXxSpicyBoiiixXx/Rizal-Center-Ubuntu-Setup.git
+git clone https://github.com/cyberprofali/Rizal-Center-Ubuntu-Setup.git
 cd Rizal-Center-Ubuntu-Setup
 ```
 
